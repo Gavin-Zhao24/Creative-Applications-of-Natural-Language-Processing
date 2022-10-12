@@ -1,6 +1,6 @@
 ## Creative-Applications-of-Natural-Language-Processing
 
-This repository keeps track of assignments and group project from ECE1786
+This repository keeps track of assignments and group project from ECE1786.
 
 Assignment:
 
